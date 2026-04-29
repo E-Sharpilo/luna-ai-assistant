@@ -1,0 +1,9 @@
+# Ignore runtime and local files
+node_modules/
+logs/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
